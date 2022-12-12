@@ -23,8 +23,16 @@ h1 span{
 span, a{
   color: #FF9900;
 }
-p{
+.line{
+  width:568px;
+  height:0;
+  margin: 0 auto 8px;
+  border:1px solid #ECEFF2;
+}
+p, footer{
   color: #7D7987;
+  font-size: 14px;
+  line-height:28px;
 }
 footer a + a{
   margin-left: 28px
