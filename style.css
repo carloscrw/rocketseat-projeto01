@@ -29,6 +29,9 @@ span, a{
   margin: 0 auto 8px;
   border:1px solid #ECEFF2;
 }
+footer{
+  margin-bottom: 33px;
+}
 p, footer{
   color: #7D7987;
   font-size: 14px;
@@ -36,4 +39,10 @@ p, footer{
 }
 footer a + a{
   margin-left: 28px
+}
+
+#balls{
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
