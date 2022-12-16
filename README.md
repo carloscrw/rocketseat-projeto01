@@ -1,7 +1,7 @@
 <h1 align="center"> Móveis customizados </h1>
 
 <p align="center">
-<img width="20px" alt="Explorer" src=".github/explorer.png">
+<img width="10px" alt="Explorer" src=".github/explorer.png">
 Explorer, Formação para iniciar no mercado de programação Rocketseat.
 </p>
 
