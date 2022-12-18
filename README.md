@@ -1,9 +1,9 @@
 <h1 align="center"> Móveis customizados </h1>
 
-<h2 align="center" >
-<img align="center" width="40"  alt="Explorer" src=".github/explorer.png">&nbsp;
+<h3 align="center" >
+<img align="center" width="30"  alt="Explorer" src=".github/explorer.png">&nbsp;
 Explorer - Rocketseat
-</h2>
+</h3>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
